@@ -1,4 +1,3 @@
-readme_content = """
 # Rust Web Scraper with Robots.txt Compliance
 
 A simple asynchronous web scraper built in Rust using Tokio and Reqwest that:
