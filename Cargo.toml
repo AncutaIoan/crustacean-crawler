@@ -1,0 +1,11 @@
+[package]
+name = "crustacean-crawler"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.45.1", features = ["full"] }
+reqwest = "0.12.18"
+scraper = "0.23.1"
+url = "2.5.4"
+robotstxt-with-cache = "0.4.0"
